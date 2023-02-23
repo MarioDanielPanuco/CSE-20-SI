@@ -1,48 +1,47 @@
-I have this thing where I get older but just never wiser
-Midnights become my afternoons
-When my depression works the graveyard shift
-All of the people I've ghosted stand there in the room
-
-I should not be left to my own devices
-They come with prices and vices
-I end up in crisis (tale as old as time)
-I wake up screaming from dreaming
-One day I'll watch as you're leaving
-'Cause you got tired of my scheming
-(For the last time)
-
-It's me, hi, I'm the problem, it's me
-At tea time, everybody agrees
-I'll stare directly at the sun but never in the mirror
-It must be exhausting always rooting for the anti-hero
-
-Sometimes I feel like everybody is a sexy baby
-And I'm a monster on the hill
-Too big to hang out, slowly lurching toward your favorite city
-Pierced through the heart, but never killed
-
-Did you hear my covert narcissism I disguise as altruism
-Like some kind of congressman? (Tale as old as time)
-I wake up screaming from dreaming
-One day I'll watch as you're leaving
-And life will lose all its meaning
-(For the last time)
-
-It's me, hi, I'm the problem, it's me (I'm the problem, it's me)
-At tea time, everybody agrees
-I'll stare directly at the sun but never in the mirror
-It must be exhausting always rooting for the anti-hero
-
-I have this dream my daughter in-law kills me for the money
-She thinks I left them in the will
-The family gathers 'round and reads it and then someone screams out
-"She's laughing up at us from hell"
-
-It's me, hi, I'm the problem, it's me
-It's me, hi, I'm the problem, it's me
-It's me, hi, everybody agrees, everybody agrees
-
-It's me, hi (hi), I'm the problem, it's me (I'm the problem, it's me)
-At tea (tea) time (time), everybody agrees (everybody agrees)
-I'll stare directly at the sun but never in the mirror
-It must be exhausting always rooting for the anti-hero
+(6) Lady Lovelace's Objection
+Our most detailed information of Babbage's Analytical Engine comes from a memoir by 
+Lady Lovelace ( 1842). In it she states, "The Analytical Engine has no pretensions to 
+originate anything. It can do whatever we know how to order it to perform" (her italics). 
+This statement is quoted by Hartree ( 1949) who adds: "This does not imply that it may 
+not be possible to construct electronic equipment which will 'think for itself,' or in which, 
+in biological terms, one could set up a conditioned reflex, which would serve as a basis 
+for 'learning.' Whether this is possible in principle or not is a stimulating and exciting 
+question, suggested by some of these recent developments But it did not seem that the 
+machines constructed or projected at the time had this property." 
+I am in thorough agreement with Hartree over this. It will be noticed that he does not 
+assert that the machines in question had not got the property, but rather that the evidence 
+available to Lady Lovelace did not encourage her to believe that they had it. It is quite 
+possible that the machines in question had in a sense got this property. For suppose that 
+some discrete-state machine has the property. The Analytical Engine was a universal 
+digital computer, so that, if its storage capacity and speed were adequate, it could by 
+suitable programming be made to mimic the machine in question. Probably this argument 
+did not occur to the Countess or to Babbage. In any case there was no obligation on them 
+to claim all that could be claimed. 
+This whole question will be considered again under the heading of learning machines. 
+A variant of Lady Lovelace's objection states that a machine can "never do anything 
+really new." This may be parried for a moment with the saw, "There is nothing new under 
+the sun." Who can be certain that "original work" that he has done was not simply the 
+growth of the seed planted in him by teaching, or the effect of following well-known 
+general principles. A better variant of the objection says that a machine can never "take 
+us by surprise." This statement is a more direct challenge and can be met directly. 
+Machines take me by surprise with great frequency. This is largely because I do not do 
+sufficient calculation to decide what to expect them to do, or rather because, although I 
+do a calculation, I do it in a hurried, slipshod fashion, taking risks. Perhaps I say to 
+myself, "I suppose the Voltage here ought to he the same as there: anyway let's assume it 
+is." Naturally I am often wrong, and the result is a surprise for me for by the time the 
+experiment is done these assumptions have been forgotten. These admissions lay me 
+open to lectures on the subject of my vicious ways, but do not throw any doubt on my 
+credibility when I testify to the surprises I experience. 
+I do not expect this reply to silence my critic. He will probably say that h surprises are 
+due to some creative mental act on my part, and reflect no credit on the machine. This 
+leads us back to the argument from consciousness, and far from the idea of surprise. It is 
+a line of argument we must consider closed, but it is perhaps worth remarking that the 
+appreciation of something as surprising requires as much of a "creative mental act" 
+whether the surprising event originates from a man, a book, a machine or anything else. 
+The view that machines cannot give rise to surprises is due, I believe, to a fallacy to 
+which philosophers and mathematicians are particularly subject. This is the assumption 
+that as soon as a fact is presented to a mind all consequences of that fact spring into the 
+mind simultaneously with it. It is a very useful assumption under many circumstances, 
+but one too easily forgets that it is false. A natural consequence of doing so is that one 
+then assumes that there is no virtue in the mere working out of consequences from data 
+and general principles. 
